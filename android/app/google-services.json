@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "287790860970",
+    "firebase_url": "https://test-ffab7.firebaseio.com",
+    "project_id": "test-ffab7",
+    "storage_bucket": "test-ffab7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287790860970:android:27913df5d4a875ed555ed3",
+        "android_client_info": {
+          "package_name": "com.appadmanazza.flutterapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "287790860970-4d2405rsl23pnqe3rpml4a4p67fm9s3r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXc90TMAKVKAnlwehNgQS3wQoAHHJvAIE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "287790860970-4d2405rsl23pnqe3rpml4a4p67fm9s3r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
